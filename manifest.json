@@ -1,0 +1,32 @@
+{
+    "short_name": "PortafolioPWA",
+    "name": "Oscar Limachi - Portafolio PWA",
+    "description": "Página personal de Oscar Limachi Condori, estudiante de Ingeniería de Sistemas.",
+    "lang": "es",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/icon-maskable-512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ],
+    "start_url": "./index.html",
+    "scope": "./",
+    "background_color": "#101e36",
+    "theme_color": "#101e36",
+    "display": "standalone",
+    "orientation": "portrait"
+}
